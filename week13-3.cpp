@@ -3,7 +3,7 @@
 void display_num(int a)
 {
 
-    printf("メ倒display_num()把计ま计琌: %\n",a);
+    printf("メ倒display_num()把计ま计琌: %d\n",a);
     return;
 }
 
